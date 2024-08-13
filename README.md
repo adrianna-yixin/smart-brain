@@ -1,6 +1,33 @@
-# Getting Started with Create React App
+# Smart Brain
+
+Smart Brain is an interactive web application that allows users to detect faces in images. By inputting the URL of an image and clicking "Detect," the system identifies any human faces and highlights them with a rectangle.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## 🌟 Features
+- **Face Detection**: Recognizes human faces in images and draws bounding boxes around them.
+- **URL Input**: Users can enter the URL of an image to process.
+- **Responsive Design**: Works seamlessly on various devices.
+
+## 🚀 Getting Started
+### Access the Web Page
+You can access the live web page directly at: [Smart Brain](https://adrianna-yixin.github.io/smart-brain/).
+
+### How to Use Locally
+1. Clone the repository:
+`git clone https://github.com/adrianna-yixin/smart-brain.git`
+2. Install dependencies:
+`npm install`
+3. Run the application:
+`npm start`
+4. Open `http://localhost:3000` in your browser.
+## 🛠️ Technologies Used
+- **React.js**: For building the user interface.
+- **Clarifai API**: For face detection.
+- **JavaScript/HTML/CSS**: For overall structure and styling.
+
+## 👩‍💻 Author
+Yixin Gong - [GitHub Profile](https://github.com/adrianna-yixin)
 
 ## Available Scripts
 
